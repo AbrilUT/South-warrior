@@ -3,7 +3,7 @@
     "short_name": "Test",
     "description": "Testing testing, 1, 2, 3",
     "start_url": "/",
-    "scope": "/Home.html",
+    "scope": "/index.html",
     "icons": [
       {
         "src": "/icons/icon128.png",
